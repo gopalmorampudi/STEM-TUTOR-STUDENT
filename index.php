@@ -31,7 +31,7 @@ $subjectsArray=$object->getAllSubject();
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
 				<a class="navbar-brand" href="index.html">
 					<!-- <img src="assets/images/logo.png" alt="Techro HTML5 template">--></a>
-			<span style="color:#3d84e6"><h2>STEM</h2></span>
+			<span style="color:#3d84e6"><h2>STEM App</h2></span>
 			</div>
             
             <div class="collapse navbar-collapse" id="navbar-collapse-1">
